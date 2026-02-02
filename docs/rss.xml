@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>WuAdrian</title><link>https://WuAdrian.github.io</link><description>搞机记录</description><copyright>WuAdrian</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://WuAdrian.github.io</link></image><lastBuildDate>Sat, 17 Jan 2026 07:57:25 +0000</lastBuildDate><managingEditor>WuAdrian</managingEditor><ttl>60</ttl><webMaster>WuAdrian</webMaster><item><title>Docker一键搭个 DNF 私服</title><link>https://WuAdrian.github.io/post/Docker-yi-jian-da-ge-%20DNF%20-si-fu.html</link><description>完整项目名：1995chen/dnf
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>WuAdrian</title><link>https://WuAdrian.github.io</link><description>搞机记录</description><copyright>WuAdrian</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://WuAdrian.github.io</link></image><lastBuildDate>Mon, 02 Feb 2026 13:08:40 +0000</lastBuildDate><managingEditor>WuAdrian</managingEditor><ttl>60</ttl><webMaster>WuAdrian</webMaster><item><title>纯真社区版IP地址库</title><link>https://WuAdrian.github.io/post/chun-zhen-she-qu-ban-IP-di-zhi-ku.html</link><description>    纯真社区版IP地址库 支持类型：IPv4&amp;IPv6
+    下载：https://cz88.net/geo-public
+    官网：https://cz88.net/
+
+    纯真(CZ88.NET)自2005年起一直为广大社区用户提供社区版IP地址库，只要获得纯真的授权就能免费使用，并不断获取后续更新的版本。</description><guid isPermaLink="true">https://WuAdrian.github.io/post/chun-zhen-she-qu-ban-IP-di-zhi-ku.html</guid><pubDate>Mon, 02 Feb 2026 13:08:14 +0000</pubDate></item><item><title>Docker一键搭个 DNF 私服</title><link>https://WuAdrian.github.io/post/Docker-yi-jian-da-ge-%20DNF%20-si-fu.html</link><description>完整项目名：1995chen/dnf
 
 docker compose
 
